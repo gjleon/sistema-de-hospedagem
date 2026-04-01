@@ -1,0 +1,15 @@
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\obj\Debug\net10.0\SistemaDeHospedagem.GeneratedMSBuildEditorConfig.editorconfig
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\obj\Debug\net10.0\SistemaDeHospedagem.AssemblyInfoInputs.cache
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\obj\Debug\net10.0\SistemaDeHospedagem.AssemblyInfo.cs
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\obj\Debug\net10.0\SistemaDeHospedagem.csproj.CoreCompileInputs.cache
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\obj\Debug\net10.0\SistemaDeHospedagem.sourcelink.json
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\bin\Debug\net10.0\SistemaDeHospedagem.exe
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\bin\Debug\net10.0\SistemaDeHospedagem.deps.json
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\bin\Debug\net10.0\SistemaDeHospedagem.runtimeconfig.json
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\bin\Debug\net10.0\SistemaDeHospedagem.dll
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\bin\Debug\net10.0\SistemaDeHospedagem.pdb
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\obj\Debug\net10.0\SistemaDeHospedagem.dll
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\obj\Debug\net10.0\refint\SistemaDeHospedagem.dll
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\obj\Debug\net10.0\SistemaDeHospedagem.pdb
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\obj\Debug\net10.0\SistemaDeHospedagem.genruntimeconfig.cache
+D:\programacao\DIO\C#\sistema-de-hospedagem\SistemaDeHospedagem\obj\Debug\net10.0\ref\SistemaDeHospedagem.dll
